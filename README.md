@@ -30,7 +30,7 @@ Para mis proyectos de análisis y desarrollo utilizo:
 ## 📫 Contacto
 ¿Quieres charlar sobre datos o tecnología?
 - **LinkedIn:** [Nathael Monsalve](https://www.linkedin.com/in/nathael-monsalve-a5aa691a6)
-- **Email:** nathaelmonsalve@outlook.com
+- **Email:** monsalvenathael@gmail.com
 
 ---
 *“Orientado a la resolución de problemas y la mejora continua de servicios”.*
